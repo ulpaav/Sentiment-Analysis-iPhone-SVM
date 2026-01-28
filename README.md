@@ -1,6 +1,7 @@
 # 📱 Analisis Sentimen Ulasan iPhone: Mengungkap "Hype vs Realita"
 
-![Dataset](https://www.kaggle.com/datasets/mrmars1010/iphone-customer-reviews-nlp)
+Dataset:
+https://www.kaggle.com/datasets/mrmars1010/iphone-customer-reviews-nlp
 
 ## 📌 Tentang Proyek
 Proyek ini bertujuan untuk melakukan **Analisis Sentimen** terhadap ribuan ulasan pengguna iPhone menggunakan algoritma **Support Vector Machine (SVM)**. 
